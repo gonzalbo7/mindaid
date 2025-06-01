@@ -1,0 +1,2 @@
+# mindaid
+thesis copstone project
